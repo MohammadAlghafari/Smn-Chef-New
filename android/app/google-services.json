@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "95743380256",
+    "project_id": "smnfood-e8f47",
+    "storage_bucket": "smnfood-e8f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95743380256:android:74778519d4dc2a32266545",
+        "android_client_info": {
+          "package_name": "com.smn.smn_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95743380256-1lj4safrhjovqepv1pk0v9ek3e3laqqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smn.smn_admin",
+            "certificate_hash": "dc8db90f3d0dc1f3da655a18ee4804cf618147da"
+          }
+        },
+        {
+          "client_id": "95743380256-8r18bg6ccdl09i37l12greluh8judcfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smn.smn_admin",
+            "certificate_hash": "66a0d95bc7f53236b7ee6201757103d6cf396b1a"
+          }
+        },
+        {
+          "client_id": "95743380256-lm9qqtp03c7v5uiofcaehahtitov5mh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smn.smn_admin",
+            "certificate_hash": "000cda2b75873a0a61918c7029729ca34aca9861"
+          }
+        },
+        {
+          "client_id": "95743380256-opt6cuoman4kjt6d721ikmloarbo7v51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smn.smn_admin",
+            "certificate_hash": "c2a7fc0bc67e14bddb70c5311297fad0ae23e072"
+          }
+        },
+        {
+          "client_id": "95743380256-upimp3rc6dslc3vkebsiqceevddebmbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYC4EfTf-rKyrWIrKuHMrRDIQmo2h3xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95743380256-upimp3rc6dslc3vkebsiqceevddebmbq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95743380256-db01j4jmlant5e4pks9vfuo304fv0lvv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smn.smn-delivery-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95743380256:android:043fbc6a40e027cd266545",
+        "android_client_info": {
+          "package_name": "com.smn.smn_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95743380256-d3677s15214sjag2uq66oaae3e47utof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smn.smn_delivery_app",
+            "certificate_hash": "c2a7fc0bc67e14bddb70c5311297fad0ae23e072"
+          }
+        },
+        {
+          "client_id": "95743380256-k1vg1ggpjf7v0tr5irb0d877ihb0n25h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smn.smn_delivery_app",
+            "certificate_hash": "dc8db90f3d0dc1f3da655a18ee4804cf618147da"
+          }
+        },
+        {
+          "client_id": "95743380256-ke5les95nq5b4vpa8n4vnj3da9avp2ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smn.smn_delivery_app",
+            "certificate_hash": "000cda2b75873a0a61918c7029729ca34aca9861"
+          }
+        },
+        {
+          "client_id": "95743380256-ljbsa40lolbsq3glu0o3n280gq5f85r1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smn.smn_delivery_app",
+            "certificate_hash": "6f4e25736270e1626688a0daef231d5457d6185f"
+          }
+        },
+        {
+          "client_id": "95743380256-upimp3rc6dslc3vkebsiqceevddebmbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYC4EfTf-rKyrWIrKuHMrRDIQmo2h3xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95743380256-upimp3rc6dslc3vkebsiqceevddebmbq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95743380256-db01j4jmlant5e4pks9vfuo304fv0lvv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smn.smn-delivery-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
